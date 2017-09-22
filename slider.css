@@ -1,0 +1,25 @@
+#slider-nav {
+/*    display: none;*/
+    margin-top: 1em;
+}
+#slider-nav button{
+    padding: 5px 10px;
+    margin-left: 1em;
+    border-radius: 3px;
+}
+
+.slider {
+    width: inherit;
+    height: 338px;
+    overflow: scroll;
+    border: 1px solid #000;
+}
+
+.slider ul {
+    width: 10000px;
+    list-style: none;
+}
+
+.slider li {
+    float: left;
+}
